@@ -1,7 +1,8 @@
 # **Info-Modal**
 
-Info-Modal est un webcomponent s'appuyant sur la librairie Lit pour afficher une modale d'information.
+> ⚠️ migration du projet vers https://github.com/GIP-RECIA/recia-webcomponents/tree/main/packages/info-modal
 
+Info-Modal est un webcomponent s'appuyant sur la librairie Lit pour afficher une modale d'information.
 
 - [**Info-Modal**](#info-modal)
   - [**Installation**](#installation)
